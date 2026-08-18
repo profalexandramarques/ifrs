@@ -1,4 +1,5 @@
 #Registro Acadêmico
+#Ler os dados da tela
 nome = input("Digite o nome: ")
 matricula = int(input("Digite a matricula: "))
 renda = float(input("Digite a renda mensal: "))
