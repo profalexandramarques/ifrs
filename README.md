@@ -1,2 +1,2 @@
 # ifrs
-Algoritmo desenvolvidos no IFRS
+Algoritmo desenvolvidos nas disciplinas ministradas no IFRS
