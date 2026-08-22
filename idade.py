@@ -1,5 +1,5 @@
 #Algoritmo que leio o nome e o ano atual
-print('=== Ano Atual ===')
+print('=== Idade Atual ===')
 #Leitura da tela
 nome = input('Digite o seu nome: ')
 ano_atual = int(input('Digite o ano atual: '))
