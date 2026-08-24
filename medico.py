@@ -1,0 +1,10 @@
+#Dados dos Médicos
+crm = input("Digite o CRM do médico: ")
+nome = input("Digite o nome do médico: ")
+especialidade = input("Digite a especialidade do médico: ")
+valor = float(input("Digite o valor da consulta: "))
+print("==== Ddos dos Médicos ====")
+print("CRM do médico: ", crm)
+print("Nome do médico: ", nome)
+print("Especialidade do médico: ", especialidade)
+print("Valor da consulta: ", 'R$ {:.2f}'.format(valor))
