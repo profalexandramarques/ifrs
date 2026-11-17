@@ -11,6 +11,8 @@ Estrutura de dados: listas e dicionário
 
 Funções
 
-Gráficos
+Gráficos usando Matplotlib
 
 Interface gráfica usando Tkinter
+
+POO
