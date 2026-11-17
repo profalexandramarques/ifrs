@@ -10,3 +10,7 @@ Comandos de repetição: for e while
 Estrutura de dados: listas e dicionário
 
 Funções
+
+Gráficos
+
+Interface gráfica usando Tkinter
